@@ -1,0 +1,5 @@
+This is a sample text file created to test file locking.
+The purpose of this file is to demonstrate process synchronization.
+Multiple processes should not access the locked region at the same time.
+This line ensures the file is long enough for SEEK_END offsets.
+End of file marker for locking demonstration.
